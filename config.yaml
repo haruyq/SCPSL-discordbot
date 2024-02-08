@@ -1,0 +1,22 @@
+# ここにTOKENを書き込む
+BOTTOKEN: ""
+
+# 募集用ロールのid
+ROLEID: ""
+
+# deepl apiのキー
+DEEPLAPI: ""
+
+# 自動翻訳のチャンネルid
+CHANNELID: ""
+
+# SLサーバーのid
+SVRID: ""
+
+# embedのメッセージid
+MESSAGEID: ""
+
+# embedが存在するチャンネルid
+CHANNELID2: ""
+
+# ※embedはこのbot自身が送信したものを選択してください。
